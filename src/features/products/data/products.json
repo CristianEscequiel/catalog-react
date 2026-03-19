@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "Taladro Bosch",
+    "description": "Taladro eléctrico profesional",
+    "image": "/images/taladro.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Amoladora",
+    "description": "Amoladora industrial",
+    "image": "/images/amoladora.jpg"
+  }
+]

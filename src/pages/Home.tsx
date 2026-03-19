@@ -5,6 +5,7 @@ const Home = () => {
         <>
             <div>
                 <h1 className="text-2xl font-bold p-4">Catálogo</h1>
+
                 <ProductList />
             </div>
         </>

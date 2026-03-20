@@ -1,15 +1,15 @@
-import ProductList from "../features/products/components/ProductList";
+import FeaturedProducts from "../features/products/components/FeaturedProducts";
+import AboutUs from "./sections/AboutUs";
+import Hero from "./sections/Hero";
 
 const Home = () => {
-    return (
-        <>
-            <div>
-                <h1 className="text-2xl font-bold p-4">Catálogo</h1>
-
-                <ProductList />
-            </div>
-        </>
-    )
-}
+  return (
+    <div className="space-y-6 pb-6 md:space-y-8">
+      <Hero />
+      <AboutUs />
+      <FeaturedProducts />
+    </div>
+  );
+};
 
 export default Home;

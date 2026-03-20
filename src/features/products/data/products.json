@@ -1,14 +1,394 @@
 [
   {
     "id": "1",
-    "name": "Taladro Bosch",
-    "description": "Taladro eléctrico profesional",
-    "image": "/images/taladro.jpg"
+    "name": "Anteojo Libus Argon Gris",
+    "category": "Protección Ocular",
+    "description": "Anteojo de seguridad Libus modelo Argon con lente gris para protección ocular en entornos industriales.",
+    "technicalSpecs": [
+      "Marca: Libus",
+      "Modelo: Argon",
+      "Color de lente: Gris",
+      "Uso: Protección ocular industrial"
+    ],
+    "image": "/images/anteojo-argon-gris.jpg"
   },
   {
     "id": "2",
-    "name": "Amoladora",
-    "description": "Amoladora industrial",
-    "image": "/images/amoladora.jpg"
+    "name": "Anteojo Libus Argon Transparente",
+    "category": "Protección Ocular",
+    "description": "Anteojo de seguridad Libus Argon con lente transparente para máxima visibilidad.",
+    "technicalSpecs": [
+      "Marca: Libus",
+      "Modelo: Argon",
+      "Color de lente: Transparente",
+      "Uso: Protección ocular general"
+    ],
+    "image": "/images/anteojo-argon-transparente.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Anteojo Libus Ecoline Gris",
+    "category": "Protección Ocular",
+    "description": "Modelo económico de anteojo Libus con lente gris para uso industrial.",
+    "technicalSpecs": [
+      "Marca: Libus",
+      "Modelo: Ecoline",
+      "Color: Gris",
+      "Tipo: Línea económica"
+    ],
+    "image": "/images/anteojo-ecoline-gris.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Anteojo Libus Ecoline Transparente",
+    "category": "Protección Ocular",
+    "description": "Anteojo Libus Ecoline transparente para tareas generales.",
+    "technicalSpecs": [
+      "Marca: Libus",
+      "Modelo: Ecoline",
+      "Color: Transparente",
+      "Uso: Interior"
+    ],
+    "image": "/images/anteojo-ecoline-transparente.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Anteojo Libus Mig Gris",
+    "category": "Protección Ocular",
+    "description": "Anteojo Libus MIG con lente gris, ideal para trabajos con luz intensa.",
+    "technicalSpecs": [
+      "Marca: Libus",
+      "Modelo: MIG",
+      "Color: Gris",
+      "Uso: Soldadura liviana"
+    ],
+    "image": "/images/anteojo-mig-gris.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Anteojo Libus Mig Transparente",
+    "category": "Protección Ocular",
+    "description": "Anteojo MIG transparente para protección básica.",
+    "technicalSpecs": [
+      "Marca: Libus",
+      "Modelo: MIG",
+      "Color: Transparente",
+      "Uso: General"
+    ],
+    "image": "/images/anteojo-mig-transparente.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Anteojo Antiparra Libus Fall Dual Gris AF",
+    "category": "Protección Ocular",
+    "description": "Sistema dual anteojo/antiparra con tratamiento antiempañante.",
+    "technicalSpecs": [
+      "Tipo: Dual (anteojo + antiparra)",
+      "Color: Gris",
+      "Tratamiento: Anti-fog",
+      "Marca: Libus"
+    ],
+    "image": "/images/fall-dual-gris.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Anteojo Antiparra Libus Fall Dual Transparente AF",
+    "category": "Protección Ocular",
+    "description": "Protección ocular dual transparente con tratamiento antiempañante.",
+    "technicalSpecs": [
+      "Tipo: Dual",
+      "Color: Transparente",
+      "Tratamiento: Anti-fog",
+      "Uso: Interior"
+    ],
+    "image": "/images/fall-dual-transparente.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Anteojo Libus Argon Elite Gris AF",
+    "category": "Protección Ocular",
+    "description": "Versión premium Argon Elite con tratamiento antiempañante.",
+    "technicalSpecs": [
+      "Modelo: Argon Elite",
+      "Color: Gris",
+      "Tratamiento: Anti-fog",
+      "Gama: Alta"
+    ],
+    "image": "/images/argon-elite-gris.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Anteojo Libus Argon Elite Transparente HC",
+    "category": "Protección Ocular",
+    "description": "Anteojo Argon Elite transparente con tratamiento hard coating.",
+    "technicalSpecs": [
+      "Modelo: Argon Elite",
+      "Color: Transparente",
+      "Tratamiento: Hard Coat",
+      "Resistencia: Rayaduras"
+    ],
+    "image": "/images/argon-elite-transparente.jpg"
+  },
+
+  {
+    "id": "11",
+    "name": "Guante Soldador Descarne Kevlar",
+    "category": "Protección de Manos",
+    "description": "Guante para soldadura con protección contra riesgos térmicos y mecánicos.",
+    "technicalSpecs": [
+      "Material: cuero descarne",
+      "Costuras: hilo Kevlar",
+      "Protección: chispas y salpicaduras",
+      "Certificación: IRAM"
+    ],
+    "image": "/images/guante-soldador.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Guante Vaqueta 1/2 Paseo",
+    "category": "Protección de Manos",
+    "description": "Guante de cuero vaqueta flexible y resistente para uso general.",
+    "technicalSpecs": [
+      "Material: cuero vaqueta",
+      "Puño elastizado",
+      "Alta flexibilidad",
+      "Color: amarillo"
+    ],
+    "image": "/images/guante-vaqueta.jpg"
+  },
+  {
+    "id": "13",
+    "name": "Guante Vaqueta con TPR Antimpacto",
+    "category": "Protección de Manos",
+    "description": "Guante reforzado con protección en dorso contra impactos.",
+    "technicalSpecs": [
+      "Material: cuero vaqueta",
+      "Refuerzo: TPR antimpacto",
+      "Alta resistencia",
+      "Uso: trabajos pesados"
+    ],
+    "image": "/images/guante-tpr.jpg"
+  },
+  {
+    "id": "14",
+    "name": "Guante Látex Rugoso Puño Lona",
+    "category": "Protección de Manos",
+    "description": "Guante de látex con excelente agarre en superficies húmedas.",
+    "technicalSpecs": [
+      "Material: látex natural",
+      "Exterior rugoso antideslizante",
+      "Interior textil",
+      "Alta resistencia al desgarro"
+    ],
+    "image": "/images/guante-latex-lona.jpg"
+  },
+  {
+    "id": "15",
+    "name": "Guante Látex Rugoso Puño Tejido",
+    "category": "Protección de Manos",
+    "description": "Guante flexible con buen agarre para trabajos húmedos.",
+    "technicalSpecs": [
+      "Material: látex natural",
+      "Puño tejido",
+      "Antideslizante",
+      "Uso: industria pesquera y frigorífica"
+    ],
+    "image": "/images/guante-latex-tejido.jpg"
+  },
+  {
+    "id": "16",
+    "name": "Guante PVC Polar Fluo 35cm",
+    "category": "Protección de Manos",
+    "description": "Guante de PVC ideal para trabajos en bajas temperaturas.",
+    "technicalSpecs": [
+      "Material: PVC",
+      "Interior jersey",
+      "Largo: 35 cm",
+      "Uso: frío extremo"
+    ],
+    "image": "/images/guante-pvc-polar.jpg"
+  },
+  {
+    "id": "17",
+    "name": "Guante Nitrilo Pesado Puño Tejido",
+    "category": "Protección de Manos",
+    "description": "Guante de nitrilo resistente a la abrasión para trabajos industriales.",
+    "technicalSpecs": [
+      "Recubrimiento: nitrilo pesado",
+      "Interior textil",
+      "Alta resistencia a la abrasión",
+      "Uso: industria metalúrgica y petróleo"
+    ],
+    "image": "/images/guante-nitrilo.jpg"
+  },
+  {
+    "id": "18",
+    "name": "Guante Nitrilo Pesado Puño Lona",
+    "category": "Protección de Manos",
+    "description": "Guante industrial para tareas exigentes con excelente durabilidad.",
+    "technicalSpecs": [
+      "Material: nitrilo",
+      "Soporte textil",
+      "Alta resistencia",
+      "Uso: construcción y mantenimiento"
+    ],
+    "image": "/images/guante-nitrilo-lona.jpg"
+  },
+  {
+    "id": "19",
+    "name": "Guante PVC 30 cm",
+    "category": "Protección de Manos",
+    "description": "Guante recubierto de PVC para protección química básica.",
+    "technicalSpecs": [
+      "Material: PVC",
+      "Interior algodón",
+      "Largo: 30 cm",
+      "Uso: manipulación general"
+    ],
+    "image": "/images/guante-pvc-30.jpg"
+  },
+  {
+    "id": "20",
+    "name": "Guante PVC 35 cm",
+    "category": "Protección de Manos",
+    "description": "Guante largo de PVC para mayor protección.",
+    "technicalSpecs": [
+      "Material: PVC",
+      "Interior algodón",
+      "Largo: 35 cm",
+      "Mayor cobertura"
+    ],
+    "image": "/images/guante-pvc-35.jpg"
+  },
+
+  {
+    "id": "21",
+    "name": "Zapatilla Ultraliviana Bali",
+    "category": "Calzado de Seguridad",
+    "description": "Zapatilla de seguridad ultraliviana diseñada especialmente para mujeres.",
+    "technicalSpecs": [
+      "Material: cuero premium",
+      "Puntera: aluminio",
+      "Dieléctrica",
+      "Antimicrobiana"
+    ],
+    "image": "/images/zapatilla-bali.jpg"
+  },
+  {
+    "id": "22",
+    "name": "Zapatilla Soul Ultraliviana",
+    "category": "Calzado de Seguridad",
+    "description": "Zapatilla de seguridad liviana con diseño moderno y alta protección.",
+    "technicalSpecs": [
+      "Material: cuero premium",
+      "Puntera: aluminio",
+      "Antideslizante",
+      "Uso urbano/industrial"
+    ],
+    "image": "/images/zapatilla-soul.jpg"
+  },
+  {
+    "id": "23",
+    "name": "Zapato Voran Jano",
+    "category": "Calzado de Seguridad",
+    "description": "Zapato de seguridad tipo francés con alta resistencia y confort.",
+    "technicalSpecs": [
+      "Material: cuero box",
+      "Puntera: acero",
+      "Suela: poliuretano bidensidad",
+      "Propiedades: dieléctrico y antideslizante"
+    ],
+    "image": "/images/zapato-voran-jano.jpg"
+  },
+  {
+    "id": "24",
+    "name": "Calzado Calfor Grip Impermeable",
+    "category": "Calzado de Seguridad",
+    "description": "Zapato ocupacional impermeable con gran comodidad para uso diario.",
+    "technicalSpecs": [
+      "Material: polímero micro expandido",
+      "Impermeable",
+      "Suela antideslizante",
+      "Plantilla removible"
+    ],
+    "image": "/images/calfor-grip.jpg"
+  },
+  {
+    "id": "25",
+    "name": "Bota Calfor Pampeana Composite Negra",
+    "category": "Calzado de Seguridad",
+    "description": "Bota de seguridad con puntera composite, liviana y resistente.",
+    "technicalSpecs": [
+      "Material: PVC resistente",
+      "Puntera: composite",
+      "Impermeable",
+      "Alta flexibilidad"
+    ],
+    "image": "/images/bota-pampeana-negra.jpg"
+  },
+  {
+    "id": "26",
+    "name": "Bota Calfor Pampeana Composite Blanca",
+    "category": "Calzado de Seguridad",
+    "description": "Bota de seguridad blanca con puntera composite para uso industrial.",
+    "technicalSpecs": [
+      "Material: PVC",
+      "Puntera: composite",
+      "Impermeable",
+      "Uso alimenticio/industrial"
+    ],
+    "image": "/images/bota-pampeana-blanca.jpg"
+  },
+  {
+    "id": "27",
+    "name": "Bota Calfor Pampeana Composite Verde",
+    "category": "Calzado de Seguridad",
+    "description": "Bota de seguridad verde con excelente protección y confort.",
+    "technicalSpecs": [
+      "Material: PVC",
+      "Puntera: composite",
+      "Antideslizante",
+      "Alta durabilidad"
+    ],
+    "image": "/images/bota-pampeana-verde.jpg"
+  },
+  {
+    "id": "28",
+    "name": "Bota Pampeana Negra Sin Puntera",
+    "category": "Calzado de Seguridad",
+    "description": "Bota liviana impermeable para tareas generales.",
+    "technicalSpecs": [
+      "Material: PVC flexible",
+      "Sin puntera",
+      "Impermeable",
+      "Suela antideslizante"
+    ],
+    "image": "/images/bota-negra-sin-puntera.jpg"
+  },
+  {
+    "id": "29",
+    "name": "Bota Pampeana Negra con Puntera",
+    "category": "Calzado de Seguridad",
+    "description": "Bota de seguridad con puntera para mayor protección.",
+    "technicalSpecs": [
+      "Material: PVC",
+      "Puntera: acero",
+      "Impermeable",
+      "Uso industrial"
+    ],
+    "image": "/images/bota-negra-puntera.jpg"
+  },
+  {
+    "id": "30",
+    "name": "Botín Ultraliviano Frontier",
+    "category": "Calzado de Seguridad",
+    "description": "Botín de seguridad ultraliviano con diseño moderno y alta protección.",
+    "technicalSpecs": [
+      "Material: cuero premium",
+      "Puntera: aluminio",
+      "Dieléctrico",
+      "Antimicrobiano"
+    ],
+    "image": "/images/botin-frontier.jpg"
   }
 ]

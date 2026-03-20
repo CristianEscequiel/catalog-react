@@ -1,1 +1,130 @@
-@import "tailwindcss"
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+:root {
+  --color-bg: #f4f7fb;
+  --color-text: #0f172a;
+  --color-primary: #2563eb;
+  --color-surface: #ffffff;
+  --color-surface-soft: #e9eef7;
+  --color-text-muted: #475569;
+  --color-primary-hover: #1d4ed8;
+  --shadow-soft: 0 10px 30px rgba(15, 23, 42, 0.08);
+}
+
+[data-theme="dark"] {
+  --color-bg: #0b1120;
+  --color-text: #f8fafc;
+  --color-primary: #60a5fa;
+  --color-surface: #131c2e;
+  --color-surface-soft: #1d2940;
+  --color-text-muted: #a5b4cf;
+  --color-primary-hover: #3b82f6;
+  --shadow-soft: 0 10px 30px rgba(0, 0, 0, 0.4);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: Inter, "Segoe UI", sans-serif;
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+a {
+  color: inherit;
+}
+
+.app-shell {
+  min-height: 100vh;
+}
+
+.surface-card {
+  background-color: var(--color-surface);
+  box-shadow: var(--shadow-soft);
+  border: 1px solid color-mix(in srgb, var(--color-text) 8%, transparent);
+}
+
+.surface-soft {
+  background-color: var(--color-surface-soft);
+}
+
+.text-muted {
+  color: var(--color-text-muted);
+}
+
+.primary-link {
+  color: var(--color-primary);
+}
+
+.primary-link:hover {
+  color: var(--color-primary-hover);
+}
+
+.primary-button {
+  background-color: var(--color-primary);
+  color: #ffffff;
+}
+
+.primary-button:hover {
+  background-color: var(--color-primary-hover);
+}
+
+.glass-nav {
+  background-color: color-mix(in srgb, var(--color-bg) 88%, transparent);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid color-mix(in srgb, var(--color-text) 12%, transparent);
+}
+
+.hero-glow {
+  background: radial-gradient(circle at 20% 20%, color-mix(in srgb, var(--color-primary) 24%, transparent), transparent 45%),
+    radial-gradient(circle at 80% 10%, color-mix(in srgb, var(--color-primary) 16%, transparent), transparent 40%);
+}
+
+.whatsapp-button {
+  background-color: #22c55e;
+  color: #ffffff;
+}
+
+.whatsapp-button:hover {
+  background-color: #16a34a;
+}
+
+.flip-card {
+  perspective: 1000px;
+  min-height: 320px;
+  outline: none;
+}
+
+.flip-card-inner {
+  position: relative;
+  height: 100%;
+  min-height: 320px;
+  transform-style: preserve-3d;
+  transition: transform 0.6s;
+}
+
+.flip-card-face {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+}
+
+.flip-card-back {
+  transform: rotateY(180deg);
+}
+
+.flip-card.is-flipped .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+@media (hover: hover) {
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+}

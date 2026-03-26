@@ -1,5 +1,17 @@
 # React + TypeScript + Vite
 
+## Personalizacion de secciones
+
+Para personalizar el contenido del inicio (Hero, Sobre nosotros y Productos destacados), edita:
+
+- `src/config/homeContent.ts`
+
+Desde ese archivo puedes cambiar textos, botones, estadisticas e items sin tocar los componentes.
+Tambien puedes definir contenido distinto por cliente usando las claves `default`, `nordic`, `industrial` y `regional`.
+
+Para personalizar mejor los colores de `surface-card` y `surface-soft`, define `accent` dentro de cada tema en
+`src/config/client.ts` (si no existe, se usa `primary` como fallback).
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:

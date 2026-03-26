@@ -5,8 +5,9 @@
   --color-bg: #f4f7fb;
   --color-text: #0f172a;
   --color-primary: #2563eb;
-  --color-surface: #ffffff;
-  --color-surface-soft: #e9eef7;
+  --color-accent: #2563eb;
+  --color-surface: color-mix(in srgb, var(--color-accent) 14%, #ffffff);
+  --color-surface-soft: color-mix(in srgb, var(--color-accent) 20%, var(--color-bg));
   --color-text-muted: #475569;
   --color-primary-hover: #1d4ed8;
   --shadow-soft: 0 10px 30px rgba(15, 23, 42, 0.08);
@@ -16,8 +17,9 @@
   --color-bg: #0b1120;
   --color-text: #f8fafc;
   --color-primary: #60a5fa;
-  --color-surface: #131c2e;
-  --color-surface-soft: #1d2940;
+  --color-accent: #60a5fa;
+  --color-surface: color-mix(in srgb, var(--color-accent) 20%, #131c2e);
+  --color-surface-soft: color-mix(in srgb, var(--color-accent) 30%, #1d2940);
   --color-text-muted: #a5b4cf;
   --color-primary-hover: #3b82f6;
   --shadow-soft: 0 10px 30px rgba(0, 0, 0, 0.4);
@@ -47,7 +49,7 @@ a {
 .surface-card {
   background-color: var(--color-surface);
   box-shadow: var(--shadow-soft);
-  border: 1px solid color-mix(in srgb, var(--color-text) 8%, transparent);
+  border: 1px solid color-mix(in srgb, var(--color-accent) 36%, transparent);
 }
 
 .surface-soft {

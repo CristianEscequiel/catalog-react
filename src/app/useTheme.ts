@@ -15,10 +15,12 @@ const getInitialTheme = (): ThemeMode => {
 
 const applyThemeColors = (theme: ThemeMode) => {
   const colors = activeClient.theme[theme];
+  const accent = colors.accent ?? colors.primary;
 
   document.documentElement.style.setProperty("--color-primary", colors.primary);
   document.documentElement.style.setProperty("--color-bg", colors.bg);
   document.documentElement.style.setProperty("--color-text", colors.text);
+  document.documentElement.style.setProperty("--color-accent", accent);
 };
 
 export const useTheme = () => {

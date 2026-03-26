@@ -2,6 +2,7 @@
   {
     "id": "1",
     "name": "Anteojo Libus Argon Gris",
+    "brand": "Libus",
     "category": "Protección Ocular",
     "description": "Anteojo de seguridad Libus modelo Argon con lente gris para protección ocular en entornos industriales.",
     "technicalSpecs": [
@@ -15,6 +16,7 @@
   {
     "id": "2",
     "name": "Anteojo Libus Argon Transparente",
+    "brand": "Libus",
     "category": "Protección Ocular",
     "description": "Anteojo de seguridad Libus Argon con lente transparente para máxima visibilidad.",
     "technicalSpecs": [
@@ -28,6 +30,7 @@
   {
     "id": "3",
     "name": "Anteojo Libus Ecoline Gris",
+    "brand": "Libus",
     "category": "Protección Ocular",
     "description": "Modelo económico de anteojo Libus con lente gris para uso industrial.",
     "technicalSpecs": [
@@ -41,6 +44,7 @@
   {
     "id": "4",
     "name": "Anteojo Libus Ecoline Transparente",
+    "brand": "Libus",
     "category": "Protección Ocular",
     "description": "Anteojo Libus Ecoline transparente para tareas generales.",
     "technicalSpecs": [
@@ -54,6 +58,7 @@
   {
     "id": "5",
     "name": "Anteojo Libus Mig Gris",
+    "brand": "Libus",
     "category": "Protección Ocular",
     "description": "Anteojo Libus MIG con lente gris, ideal para trabajos con luz intensa.",
     "technicalSpecs": [
@@ -67,6 +72,7 @@
   {
     "id": "6",
     "name": "Anteojo Libus Mig Transparente",
+    "brand": "Libus",
     "category": "Protección Ocular",
     "description": "Anteojo MIG transparente para protección básica.",
     "technicalSpecs": [
@@ -80,6 +86,7 @@
   {
     "id": "7",
     "name": "Anteojo Antiparra Libus Fall Dual Gris AF",
+    "brand": "Libus",
     "category": "Protección Ocular",
     "description": "Sistema dual anteojo/antiparra con tratamiento antiempañante.",
     "technicalSpecs": [
@@ -93,6 +100,7 @@
   {
     "id": "8",
     "name": "Anteojo Antiparra Libus Fall Dual Transparente AF",
+    "brand": "Libus",
     "category": "Protección Ocular",
     "description": "Protección ocular dual transparente con tratamiento antiempañante.",
     "technicalSpecs": [
@@ -106,6 +114,7 @@
   {
     "id": "9",
     "name": "Anteojo Libus Argon Elite Gris AF",
+    "brand": "Libus",
     "category": "Protección Ocular",
     "description": "Versión premium Argon Elite con tratamiento antiempañante.",
     "technicalSpecs": [
@@ -119,6 +128,7 @@
   {
     "id": "10",
     "name": "Anteojo Libus Argon Elite Transparente HC",
+    "brand": "Libus",
     "category": "Protección Ocular",
     "description": "Anteojo Argon Elite transparente con tratamiento hard coating.",
     "technicalSpecs": [
@@ -129,10 +139,10 @@
     ],
     "image": "/images/argon-elite-transparente.jpg"
   },
-
   {
     "id": "11",
     "name": "Guante Soldador Descarne Kevlar",
+    "brand": "BAC-DALL",
     "category": "Protección de Manos",
     "description": "Guante para soldadura con protección contra riesgos térmicos y mecánicos.",
     "technicalSpecs": [
@@ -146,6 +156,7 @@
   {
     "id": "12",
     "name": "Guante Vaqueta 1/2 Paseo",
+    "brand": "BAC-DALL",
     "category": "Protección de Manos",
     "description": "Guante de cuero vaqueta flexible y resistente para uso general.",
     "technicalSpecs": [
@@ -159,6 +170,7 @@
   {
     "id": "13",
     "name": "Guante Vaqueta con TPR Antimpacto",
+    "brand": "BAC-DALL",
     "category": "Protección de Manos",
     "description": "Guante reforzado con protección en dorso contra impactos.",
     "technicalSpecs": [
@@ -172,6 +184,7 @@
   {
     "id": "14",
     "name": "Guante Látex Rugoso Puño Lona",
+    "brand": "BAC-DALL",
     "category": "Protección de Manos",
     "description": "Guante de látex con excelente agarre en superficies húmedas.",
     "technicalSpecs": [
@@ -185,6 +198,7 @@
   {
     "id": "15",
     "name": "Guante Látex Rugoso Puño Tejido",
+    "brand": "BAC-DALL",
     "category": "Protección de Manos",
     "description": "Guante flexible con buen agarre para trabajos húmedos.",
     "technicalSpecs": [
@@ -198,6 +212,7 @@
   {
     "id": "16",
     "name": "Guante PVC Polar Fluo 35cm",
+    "brand": "BAC-DALL",
     "category": "Protección de Manos",
     "description": "Guante de PVC ideal para trabajos en bajas temperaturas.",
     "technicalSpecs": [
@@ -211,6 +226,7 @@
   {
     "id": "17",
     "name": "Guante Nitrilo Pesado Puño Tejido",
+    "brand": "BAC-DALL",
     "category": "Protección de Manos",
     "description": "Guante de nitrilo resistente a la abrasión para trabajos industriales.",
     "technicalSpecs": [
@@ -224,6 +240,7 @@
   {
     "id": "18",
     "name": "Guante Nitrilo Pesado Puño Lona",
+    "brand": "BAC-DALL",
     "category": "Protección de Manos",
     "description": "Guante industrial para tareas exigentes con excelente durabilidad.",
     "technicalSpecs": [
@@ -237,6 +254,7 @@
   {
     "id": "19",
     "name": "Guante PVC 30 cm",
+    "brand": "BAC-DALL",
     "category": "Protección de Manos",
     "description": "Guante recubierto de PVC para protección química básica.",
     "technicalSpecs": [
@@ -250,6 +268,7 @@
   {
     "id": "20",
     "name": "Guante PVC 35 cm",
+    "brand": "BAC-DALL",
     "category": "Protección de Manos",
     "description": "Guante largo de PVC para mayor protección.",
     "technicalSpecs": [
@@ -260,10 +279,10 @@
     ],
     "image": "/images/guante-pvc-35.jpg"
   },
-
   {
     "id": "21",
     "name": "Zapatilla Ultraliviana Bali",
+    "brand": "BAC-DALL",
     "category": "Calzado de Seguridad",
     "description": "Zapatilla de seguridad ultraliviana diseñada especialmente para mujeres.",
     "technicalSpecs": [
@@ -277,6 +296,7 @@
   {
     "id": "22",
     "name": "Zapatilla Soul Ultraliviana",
+    "brand": "BAC-DALL",
     "category": "Calzado de Seguridad",
     "description": "Zapatilla de seguridad liviana con diseño moderno y alta protección.",
     "technicalSpecs": [
@@ -290,6 +310,7 @@
   {
     "id": "23",
     "name": "Zapato Voran Jano",
+    "brand": "BAC-DALL",
     "category": "Calzado de Seguridad",
     "description": "Zapato de seguridad tipo francés con alta resistencia y confort.",
     "technicalSpecs": [
@@ -303,6 +324,7 @@
   {
     "id": "24",
     "name": "Calzado Calfor Grip Impermeable",
+    "brand": "BAC-DALL",
     "category": "Calzado de Seguridad",
     "description": "Zapato ocupacional impermeable con gran comodidad para uso diario.",
     "technicalSpecs": [
@@ -316,6 +338,7 @@
   {
     "id": "25",
     "name": "Bota Calfor Pampeana Composite Negra",
+    "brand": "BAC-DALL",
     "category": "Calzado de Seguridad",
     "description": "Bota de seguridad con puntera composite, liviana y resistente.",
     "technicalSpecs": [
@@ -329,6 +352,7 @@
   {
     "id": "26",
     "name": "Bota Calfor Pampeana Composite Blanca",
+    "brand": "BAC-DALL",
     "category": "Calzado de Seguridad",
     "description": "Bota de seguridad blanca con puntera composite para uso industrial.",
     "technicalSpecs": [
@@ -342,6 +366,7 @@
   {
     "id": "27",
     "name": "Bota Calfor Pampeana Composite Verde",
+    "brand": "BAC-DALL",
     "category": "Calzado de Seguridad",
     "description": "Bota de seguridad verde con excelente protección y confort.",
     "technicalSpecs": [
@@ -355,6 +380,7 @@
   {
     "id": "28",
     "name": "Bota Pampeana Negra Sin Puntera",
+    "brand": "BAC-DALL",
     "category": "Calzado de Seguridad",
     "description": "Bota liviana impermeable para tareas generales.",
     "technicalSpecs": [
@@ -368,6 +394,7 @@
   {
     "id": "29",
     "name": "Bota Pampeana Negra con Puntera",
+    "brand": "BAC-DALL",
     "category": "Calzado de Seguridad",
     "description": "Bota de seguridad con puntera para mayor protección.",
     "technicalSpecs": [
@@ -381,6 +408,7 @@
   {
     "id": "30",
     "name": "Botín Ultraliviano Frontier",
+    "brand": "BAC-DALL",
     "category": "Calzado de Seguridad",
     "description": "Botín de seguridad ultraliviano con diseño moderno y alta protección.",
     "technicalSpecs": [
@@ -390,5 +418,945 @@
       "Antimicrobiano"
     ],
     "image": "/images/botin-frontier.jpg"
+  },
+  {
+    "id": "31",
+    "name": "Guante G13 fibra técnica + poliéster con baño PU ventilado negro PU1004F",
+    "brand": "Gamisol",
+    "category": "Protección de Manos",
+    "description": "Guante técnico resistente al corte con baño de poliuretano ventilado.",
+    "technicalSpecs": [
+      "Tejido: fibra técnica + poliéster",
+      "Recubrimiento: PU ventilado",
+      "Uso: manipulación industrial",
+      "Nivel: anticorte"
+    ],
+    "image": "/images/guante-pu1004f.jpg"
+  },
+  {
+    "id": "32",
+    "name": "Guante G13 fibra técnica + poliéster baño PU ventilado negro PU1004L",
+    "brand": "Gamisol",
+    "category": "Protección de Manos",
+    "description": "Guante anticorte con excelente agarre y ventilación.",
+    "technicalSpecs": [
+      "Material: fibra técnica",
+      "Baño: poliuretano",
+      "Ventilado",
+      "Uso industrial"
+    ],
+    "image": "/images/guante-pu1004l.jpg"
+  },
+  {
+    "id": "33",
+    "name": "Guante tejido terrycloth MAGNUM con refuerzo descarne 7115MAGNUM",
+    "brand": "Gamisol",
+    "category": "Protección de Manos",
+    "description": "Guante resistente con refuerzo en palma para trabajos pesados.",
+    "technicalSpecs": [
+      "Material: hilo Magnum",
+      "Refuerzo: cuero descarne",
+      "Alta resistencia",
+      "Uso: trabajos pesados"
+    ],
+    "image": "/images/guante-magnum.jpg"
+  },
+  {
+    "id": "34",
+    "name": "Guante jersey aramida + acero POWER HAND 294",
+    "brand": "Gamisol",
+    "category": "Protección de Manos",
+    "description": "Guante de alta resistencia al corte con mezcla de aramida y acero.",
+    "technicalSpecs": [
+      "Material: aramida + acero",
+      "Alta resistencia al corte",
+      "Uso: metalúrgica",
+      "Tejido jersey"
+    ],
+    "image": "/images/guante-power-hand.jpg"
+  },
+  {
+    "id": "35",
+    "name": "Manga anticorte aramida con velcro 194",
+    "brand": "Gamisol",
+    "category": "Protección de Brazos",
+    "description": "Manga de protección para antebrazo resistente a cortes.",
+    "technicalSpecs": [
+      "Material: aramida",
+      "Cierre: velcro",
+      "Elástico ajustable",
+      "Protección extendida"
+    ],
+    "image": "/images/manga-aramida.jpg"
+  },
+  {
+    "id": "36",
+    "name": "Guante G15 HPPE con doble baño nitrilo N1007",
+    "brand": "Gamisol",
+    "category": "Protección de Manos",
+    "description": "Guante anticorte con doble recubrimiento de nitrilo.",
+    "technicalSpecs": [
+      "Material: HPPE",
+      "Recubrimiento: nitrilo doble",
+      "Alta abrasión",
+      "Uso industrial"
+    ],
+    "image": "/images/guante-n1007.jpg"
+  },
+  {
+    "id": "37",
+    "name": "Guante G13 HPPE con baño ecolátex L1006",
+    "brand": "Gamisol",
+    "category": "Protección de Manos",
+    "description": "Guante anticorte con excelente agarre y flexibilidad.",
+    "technicalSpecs": [
+      "Material: HPPE",
+      "Baño: ecolátex",
+      "Antideslizante",
+      "Uso general"
+    ],
+    "image": "/images/guante-l1006.jpg"
+  },
+  {
+    "id": "38",
+    "name": "Guante G13 anticorte nivel 5 con TPR PU1004-IM",
+    "brand": "Gamisol",
+    "category": "Protección de Manos",
+    "description": "Guante con protección anticorte y refuerzo antimpacto en dorso.",
+    "technicalSpecs": [
+      "Nivel corte: 5",
+      "Refuerzo: TPR",
+      "Baño: PU",
+      "Alta protección"
+    ],
+    "image": "/images/guante-pu1004im.jpg"
+  },
+  {
+    "id": "39",
+    "name": "Manga PRO PREMIUM jersey galga 7 100PROM E",
+    "brand": "Gamisol",
+    "category": "Protección de Brazos",
+    "description": "Manga anticorte de alto rendimiento para uso industrial.",
+    "technicalSpecs": [
+      "Línea: Pro Premium",
+      "Tejido jersey",
+      "Alta resistencia",
+      "Uso industrial"
+    ],
+    "image": "/images/manga-pro.jpg"
+  },
+  {
+    "id": "40",
+    "name": "Manga acero + fibras Magnum con medio guante 100MGM",
+    "brand": "Gamisol",
+    "category": "Protección de Brazos",
+    "description": "Protección extendida con integración parcial de guante.",
+    "technicalSpecs": [
+      "Material: acero + fibras sintéticas",
+      "Incluye medio guante",
+      "Alta resistencia",
+      "Uso industrial pesado"
+    ],
+    "image": "/images/manga-magnum.jpg"
+  },
+   {
+    "id": "41",
+    "name": "Botin Aquiles Negro Voran Flex",
+    "brand": "Voran",
+    "category": "Calzado de Seguridad",
+    "description": "Botín francés con puntera de acero y suela PU bidensidad.",
+    "technicalSpecs": [
+      "Exterior: Cuero flor liso",
+      "Interior: Cuello acolchado y lengüeta forrada",
+      "Puntera: Acero",
+      "Cordones: Alta tracción",
+      "Pasacordones: Ojalillos metálicos",
+      "Plantillas: Caucho de baja densidad",
+      "Propiedades de planta: Dieléctrica, antideslizante, resistente a hidrocarburos, abrasión y flexión",
+      "Compuesto de suela: Poliuretano bidensidad",
+      "Adhesión capellada-planta: Inyección directa",
+      "Numeración: 36 al 46"
+    ],
+    "image": "/images/botin-aquiles-negro-voran-flex.jpg"
+  },
+  {
+    "id": "42",
+    "name": "Botin Argos Voran Flex",
+    "brand": "Voran",
+    "category": "Calzado de Seguridad",
+    "description": "Botín francés con puntera de acero y suela PU bidensidad.",
+    "technicalSpecs": [
+      "Exterior: Cuero flor liso",
+      "Interior: Forro textil antimicrobiano, cuello acolchado y lengüeta con semi-fuelle",
+      "Puntera: Acero",
+      "Cordones: Alta tracción",
+      "Pasacordones: Ojalillos metálicos",
+      "Plantillas: Caucho de baja densidad",
+      "Propiedades de planta: Dieléctrica, shock absorber, antideslizante, autolimpiante, resistente a hidrocarburos, abrasión y flexión",
+      "Compuesto de suela: Poliuretano bidensidad",
+      "Adhesión capellada-planta: Inyección directa",
+      "Numeración: 36 al 46",
+      "Norma / Riesgo: IRAM 3610, IRAM EN20345, ASTM F2413"
+    ],
+    "image": "/images/botin-argos-voran-flex.jpg"
+  },
+  {
+    "id": "43",
+    "name": "Botin Aurum Marron Funcional Pu/Tpu",
+    "brand": "Funcional",
+    "category": "Calzado de Seguridad",
+    "description": "Botín francés con puntera de acero y suela multidensidad.",
+    "technicalSpecs": [
+      "Exterior: Cuero flor HQ",
+      "Interior: Forro Drymax, cuello acolchado y lengüeta con fuelle",
+      "Puntera: Acero",
+      "Cordones: Ultra resistentes con Reflemax",
+      "Pasacordones: Composite de alta tenacidad",
+      "Plantillas: Caucho de baja densidad",
+      "Propiedades de planta: Dieléctrica, antideslizante, autolimpiante, resistente a hidrocarburos, abrasión y flexión",
+      "Compuesto de suela: Poliuretano multidensidad",
+      "Adhesión capellada-planta: Inyección directa",
+      "Numeración: 36 al 46",
+      "Norma / Riesgo: D dieléctrico",
+      "Tecnología: IPD Technology, DCP System, Shock Absorber, Reflemax, Drymax, Microtec Pro, Foamfree"
+    ],
+    "image": "/images/botin-aurum-marron-funcional-pu-tpu.jpg"
+  },
+  {
+    "id": "44",
+    "name": "Botin Bolt Gtx Impermeable Funcional Michelin",
+    "brand": "Funcional",
+    "category": "Calzado de Seguridad",
+    "description": "Botín premium impermeable con suela Michelin y puntera de acero.",
+    "technicalSpecs": [
+      "Exterior: Cuero flor waterproof con material reflectivo",
+      "Interior: Cuello acolchado y lengüeta con fuelle",
+      "Puntera: Acero",
+      "Cordones: Ultra resistentes con Reflemax",
+      "Pasacordones: Composite de alta tenacidad",
+      "Plantillas: Ultra confort ergonómica",
+      "Propiedades de planta: Dieléctrica, antideslizante, autolimpiante, resistente a hidrocarburos, abrasión y flexión",
+      "Compuesto de suela: Poliuretano y caucho",
+      "Adhesión capellada-planta: Inyección directa",
+      "Numeración: 38 al 45",
+      "Norma / Riesgo: D, HI, CI, E, WR, HRO, WRU",
+      "Tecnología: Gore-Tex, Reflemax, Air Compact, Elastopan Light Safe BASF, Heel Stabilizer, Matrix Grip, Open Cell, Soles by Michelin, SPW Technology, Microtec Pro, Foamfree"
+    ],
+    "image": "/images/botin-bolt-gtx-impermeable-funcional-michelin.jpg"
+  },
+  {
+    "id": "45",
+    "name": "Botin Capri Funcional Mujer",
+    "brand": "Funcional",
+    "category": "Calzado de Seguridad",
+    "description": "Botín de seguridad para mujer, liviano y con puntera de aluminio.",
+    "technicalSpecs": [
+      "Puntera: Aluminio",
+      "Cordones: Ultra resistentes con Reflemax",
+      "Pasacordones: Ojalillos reforzados",
+      "Plantillas: Ultra confort ergonómica",
+      "Propiedades de planta: Dieléctrica, antideslizante, autolimpiante, resistente a hidrocarburos, abrasión y flexión",
+      "Compuesto de suela: Poliuretano multidensidad",
+      "Adhesión capellada-planta: Inyección directa",
+      "Numeración: 34 al 42",
+      "Tecnología: IPD Technology, DCP System, Shock Absorber"
+    ],
+    "image": "/images/botin-capri-funcional-mujer.jpg"
+  },
+  {
+    "id": "46",
+    "name": "Botin Cronos Negro Voran Flex",
+    "brand": "Voran",
+    "category": "Calzado de Seguridad",
+    "description": "Botín francés con puntera de acero y suela PU bidensidad.",
+    "technicalSpecs": [
+      "Exterior: Cuero box liso",
+      "Interior: Forro textil antimicrobiano, cuello acolchado y lengüeta de cuero",
+      "Puntera: Acero",
+      "Cordones: Alta tracción",
+      "Pasacordones: Ojalillos reforzados",
+      "Plantillas: Caucho de baja densidad",
+      "Propiedades de planta: Dieléctrica, shock absorber, antideslizante, autolimpiante, resistente a hidrocarburos, abrasión y flexión",
+      "Compuesto de suela: Poliuretano bidensidad",
+      "Adhesión capellada-planta: Inyección directa",
+      "Numeración: 36 al 46",
+      "Norma / Riesgo: IRAM 3610, IRAM EN20345, ASTM F2413"
+    ],
+    "image": "/images/botin-cronos-negro-voran-flex.jpg"
+  },
+  {
+    "id": "47",
+    "name": "Botin Energy 510 Voran Sportsafe",
+    "brand": "Voran",
+    "category": "Calzado de Seguridad",
+    "description": "Botín liviano de línea Sportsafe con puntera de aluminio.",
+    "technicalSpecs": [
+      "Puntera: Aluminio",
+      "Cordones: Alta tracción",
+      "Pasacordones: Ojalillos reforzados",
+      "Plantillas: High Performance",
+      "Propiedades de planta: Dieléctrica, antideslizante, resistente a hidrocarburos, abrasión y flexión",
+      "Compuesto de suela: Poliuretano multidensidad",
+      "Adhesión capellada-planta: Inyección directa",
+      "Norma / Riesgo: D, CI, E, WR, SRC",
+      "Tecnología: Aluminium Toe Cap, Shock Absorber, Reflemax, Aircore, Airmesh, Infinergy by BASF, S-Motion Concept, Ultragrip Sole, Ultralight PU"
+    ],
+    "image": "/images/botin-energy-510-voran-sportsafe.jpg"
+  },
+  {
+    "id": "48",
+    "name": "Botin Energy 520 Gris Voran Sportsafe",
+    "brand": "Voran",
+    "category": "Calzado de Seguridad",
+    "description": "Botín liviano con puntera de aluminio y gran retorno de energía.",
+    "technicalSpecs": [
+      "Exterior: Cuero nobuck y materiales textiles con reflectivos",
+      "Interior: Cuello acolchado y lengüeta forrada",
+      "Puntera: Aluminio",
+      "Cordones: Alta tracción",
+      "Pasacordones: Ojalillos reforzados",
+      "Plantillas: High Performance",
+      "Propiedades de planta: Dieléctrica, antideslizante, autolimpiante, resistente a hidrocarburos, abrasión y flexión",
+      "Compuesto de suela: Poliuretano multidensidad",
+      "Adhesión capellada-planta: Inyección directa",
+      "Numeración: 36 al 46",
+      "Norma / Riesgo: IRAM 3610, D, HI, CI, E",
+      "Tecnología: Aluminium Toe Cap, Shock Absorber, Reflemax, Aircore, Airmesh, Infinergy by BASF, S-Motion Concept, Ultragrip Sole, Ultralight PU"
+    ],
+    "image": "/images/botin-energy-520-gris-voran-sportsafe.jpg"
+  },
+  {
+    "id": "49",
+    "name": "Botin Energy 710 Voran Sportsafe",
+    "brand": "Voran",
+    "category": "Calzado de Seguridad",
+    "description": "Botín Sportsafe liviano con puntera de aluminio y alta amortiguación.",
+    "technicalSpecs": [
+      "Exterior: Nobuck",
+      "Interior: Cuello acolchado y lengüeta forrada",
+      "Puntera: Aluminio",
+      "Cordones: Alta tracción",
+      "Pasacordones: Ojalillos reforzados",
+      "Plantillas: High Performance",
+      "Propiedades de planta: Dieléctrica, antideslizante, autolimpiante, resistente a hidrocarburos, abrasión y flexión",
+      "Compuesto de suela: Poliuretano multidensidad",
+      "Adhesión capellada-planta: Inyección directa",
+      "Norma / Riesgo: D, CI, E, WR, SRC",
+      "Tecnología: Aluminium Toe Cap, Shock Absorber, Reflemax, Aircore, Airmesh, Infinergy by BASF, S-Motion Concept, Ultragrip Sole, Ultralight PU"
+    ],
+    "image": "/images/botin-energy-710-voran-sportsafe.jpg"
+  },
+  {
+    "id": "50",
+    "name": "Botin Energy 741 Voran Sportsafe Mujer",
+    "brand": "Voran",
+    "category": "Calzado de Seguridad",
+    "description": "Botín para mujer con puntera de aluminio y suela PU multidensidad.",
+    "technicalSpecs": [
+      "Exterior: Cuero nobuck y materiales textiles",
+      "Interior: Cuello acolchado y lengüeta forrada",
+      "Puntera: Aluminio",
+      "Cordones: Alta tracción",
+      "Pasacordones: Ojalillos reforzados",
+      "Plantillas: High Performance",
+      "Propiedades de planta: Dieléctrica, antideslizante, autolimpiante, resistente a hidrocarburos, abrasión y flexión",
+      "Compuesto de suela: Poliuretano multidensidad",
+      "Adhesión capellada-planta: Inyección directa",
+      "Numeración: 35 al 42",
+      "Norma / Riesgo: Calzado dieléctrico, aislamiento al frío, absorción de energía en talón, resistencia al agua y al deslizamiento",
+      "Tecnología: Ultralight PU, Ultragrip Sole, S-Motion Concept, Infinergy by BASF, Shock Absorber, Aircore, Airmesh, Reflemax"
+    ],
+    "image": "/images/botin-energy-741-voran-sportsafe-mujer.jpg"
+  },
+  {
+    "id": "51",
+    "name": "Botin Energy 770 Voran Sportsafe Mujer",
+    "brand": "Voran",
+    "category": "Calzado de Seguridad",
+    "description": "Botín para mujer con puntera de aluminio y suela PU multidensidad.",
+    "technicalSpecs": [
+      "Exterior: Cuero nobuck y materiales textiles",
+      "Interior: Cuello acolchado y lengüeta forrada",
+      "Puntera: Aluminio",
+      "Cordones: Alta tracción",
+      "Pasacordones: Ojalillos reforzados",
+      "Plantillas: High Performance",
+      "Propiedades de planta: Dieléctrica, antideslizante, autolimpiante, resistente a hidrocarburos, abrasión y flexión",
+      "Compuesto de suela: Poliuretano multidensidad",
+      "Adhesión capellada-planta: Inyección directa",
+      "Numeración: 35 al 42",
+      "Norma / Riesgo: Calzado dieléctrico, aislamiento al frío, absorción de energía en talón, resistencia al agua y al deslizamiento",
+      "Tecnología: Ultralight PU, Ultragrip Sole, S-Motion Concept, Infinergy by BASF, Shock Absorber, Aircore, Airmesh, Reflemax"
+    ],
+    "image": "/images/botin-energy-770-voran-sportsafe-mujer.jpg"
+  },
+  {
+    "id": "52",
+    "name": "Botin Energy 910 Marron Voran Sportsafe",
+    "brand": "Voran",
+    "category": "Calzado de Seguridad",
+    "description": "Botín Sportsafe con puntera de aluminio y alto confort.",
+    "technicalSpecs": [
+      "Exterior: Cuero nobuck con material reflectivo",
+      "Interior: Cuello acolchado y lengüeta forrada",
+      "Puntera: Aluminio",
+      "Cordones: Alta tracción",
+      "Pasacordones: Ojalillos reforzados",
+      "Plantillas: High Performance",
+      "Propiedades de planta: Dieléctrica, antideslizante, autolimpiante, resistente a hidrocarburos, abrasión y flexión",
+      "Compuesto de suela: Poliuretano multidensidad",
+      "Adhesión capellada-planta: Inyección directa",
+      "Numeración: 36 al 46",
+      "Norma / Riesgo: IRAM 3610, D, HI, CI, E",
+      "Tecnología: Aluminium Toe Cap, Shock Absorber, Reflemax, Aircore, Airmesh, Infinergy by BASF, S-Motion Concept, Ultragrip Sole, Ultralight PU"
+    ],
+    "image": "/images/botin-energy-910-marron-voran-sportsafe.jpg"
+  },
+  {
+    "id": "53",
+    "name": "Botin Energy 910 Negro Voran Sportsafe",
+    "brand": "Voran",
+    "category": "Calzado de Seguridad",
+    "description": "Botín Sportsafe con puntera de aluminio y alto confort.",
+    "technicalSpecs": [
+      "Exterior: Cuero nobuck con material reflectivo",
+      "Interior: Cuello acolchado y lengüeta forrada",
+      "Puntera: Aluminio",
+      "Cordones: Alta tracción",
+      "Pasacordones: Ojalillos reforzados",
+      "Plantillas: High Performance",
+      "Propiedades de planta: Dieléctrica, antideslizante, autolimpiante, resistente a hidrocarburos, abrasión y flexión",
+      "Compuesto de suela: Poliuretano multidensidad",
+      "Adhesión capellada-planta: Inyección directa",
+      "Numeración: 36 al 46",
+      "Norma / Riesgo: IRAM 3610, D, HI, CI, E",
+      "Tecnología: Aluminium Toe Cap, Shock Absorber, Reflemax, Aircore, Airmesh, Infinergy by BASF, S-Motion Concept, Ultragrip Sole, Ultralight PU"
+    ],
+    "image": "/images/botin-energy-910-negro-voran-sportsafe.jpg"
+  },
+  {
+    "id": "54",
+    "name": "Botin Explorer Funcional Michelin",
+    "brand": "Funcional",
+    "category": "Calzado de Seguridad",
+    "description": "Botín de seguridad con suela Michelin y foco en tracción y confort.",
+    "technicalSpecs": [
+      "Puntera: Acero",
+      "Cordones: Alta tracción",
+      "Pasacordones: Composite de alta tenacidad",
+      "Propiedades de planta: Dieléctrica, antideslizante, autolimpiante, resistente a hidrocarburos, abrasión y flexión",
+      "Tecnología: Soles by Michelin, Elastopan Light Safe by BASF, Air Compact, SPW Technology, Heel Stabilizer, Dryzone, Cordura, Matrix Grip, Open Cell, Microtec Pro, Foamfree"
+    ],
+    "image": "/images/botin-explorer-funcional-michelin.jpg"
+  },
+  {
+    "id": "55",
+    "name": "Botin Frontier Funcional Ultralivianos",
+    "brand": "Funcional",
+    "category": "Calzado de Seguridad",
+    "description": "Botín ultraliviano con puntera de aluminio y buena amortiguación.",
+    "technicalSpecs": [
+      "Puntera: Aluminio",
+      "Cordones: Ultra resistentes con Reflemax",
+      "Pasacordones: Ojalillos reforzados",
+      "Plantillas: Ultra confort ergonómica",
+      "Propiedades de planta: Dieléctrica, antideslizante, autolimpiante, resistente a hidrocarburos, abrasión y flexión",
+      "Compuesto de suela: Poliuretano multidensidad",
+      "Adhesión capellada-planta: Inyección directa",
+      "Numeración: 36 al 46",
+      "Norma / Riesgo: IRAM 3610, IRAM EN20345, ASTM F2413",
+      "Tecnología: IPD Technology, DCP System, Shock Absorber"
+    ],
+    "image": "/images/botin-frontier-funcional-ultralivianos.jpg"
+  },
+  {
+    "id": "56",
+    "name": "Botin Fundidor 38201 Funcional",
+    "brand": "Funcional",
+    "category": "Calzado de Seguridad",
+    "description": "Botín soldador de línea caucho con puntera de acero.",
+    "technicalSpecs": [
+      "Exterior: Cuero flor HQ",
+      "Interior: Forro Drymax, sin acolchado y sin lengüeta",
+      "Puntera: Acero",
+      "Plantillas: Caucho de baja densidad",
+      "Propiedades de planta: Dieléctrica, antideslizante, autolimpiante, resistente a hidrocarburos, abrasión y flexión"
+    ],
+    "image": "/images/botin-fundidor-38201-funcional.jpg"
+  },
+  {
+    "id": "57",
+    "name": "Botin Rander Funcional",
+    "brand": "Funcional",
+    "category": "Calzado de Seguridad",
+    "description": "Botín de seguridad con puntera de acero y tecnologías de estabilidad.",
+    "technicalSpecs": [
+      "Puntera: Acero",
+      "Cordones: Ultra resistentes con Reflemax",
+      "Plantillas: Ultra confort ergonómica",
+      "Propiedades de planta: Dieléctrica, antideslizante, autolimpiante, resistente a hidrocarburos, abrasión y flexión",
+      "Compuesto de suela: Poliuretano multidensidad",
+      "Adhesión capellada-planta: Inyección directa",
+      "Tecnología: IPD Technology, DCP System, Antitorsion Insert, Shock Absorber, Reflemax, Duratex, Aircore, Microtec Pro, Foamfree"
+    ],
+    "image": "/images/botin-rander-funcional.jpg"
+  },
+  {
+    "id": "58",
+    "name": "Botin Street Funcional Ultralivianos",
+    "brand": "Funcional",
+    "category": "Calzado de Seguridad",
+    "description": "Botín ultraliviano con puntera de aluminio y uso general.",
+    "technicalSpecs": [
+      "Exterior: Cuero natural",
+      "Interior: Forro textil antimicrobiano y cuello acolchado",
+      "Puntera: Aluminio",
+      "Cordones: Ultra resistentes con Reflemax",
+      "Plantillas: Ultra confort ergonómica",
+      "Propiedades de planta: Dieléctrica, antideslizante, autolimpiante, resistente a hidrocarburos, abrasión y flexión",
+      "Compuesto de suela: Poliuretano multidensidad",
+      "Adhesión capellada-planta: Inyección directa",
+      "Numeración: 34 al 46",
+      "Norma / Riesgo: IRAM 3610, IRAM EN20345, ASTM F2413",
+      "Tecnología: IPD Technology, DCP System, Shock Absorber"
+    ],
+    "image": "/images/botin-street-funcional-ultralivianos.jpg"
+  },
+  {
+    "id": "59",
+    "name": "Botin Terra Marron Funcional Pu/Tpu",
+    "brand": "Funcional",
+    "category": "Calzado de Seguridad",
+    "description": "Botín francés con puntera de acero y suela multidensidad.",
+    "technicalSpecs": [
+      "Exterior: Combinación de cueros y materiales textiles",
+      "Interior: Forro Drymax, cuello acolchado y lengüeta con fuelle",
+      "Puntera: Acero",
+      "Cordones: Ultra resistentes con Reflemax",
+      "Pasacordones: Composite de alta tenacidad y strip-loop reforzado",
+      "Plantillas: Ultra confort ergonómica",
+      "Propiedades de planta: Dieléctrica, antideslizante, autolimpiante, resistente a hidrocarburos, abrasión y flexión",
+      "Compuesto de suela: Poliuretano multidensidad",
+      "Adhesión capellada-planta: Inyección directa",
+      "Numeración: 36 al 46",
+      "Norma / Riesgo: D dieléctrico",
+      "Tecnología: IPD Technology, DCP System, Antitorsion Insert, Shock Absorber, Reflemax, Duratex, Drymax, Aircore, Microtec Pro, Foamfree"
+    ],
+    "image": "/images/botin-terra-marron-funcional-pu-tpu.jpg"
+  },
+  {
+    "id": "60",
+    "name": "Botin Tracer Funcional Ultraliviano",
+    "brand": "Funcional",
+    "category": "Calzado de Seguridad",
+    "description": "Botín ultraliviano con puntera de aluminio y buena amortiguación.",
+    "technicalSpecs": [
+      "Puntera: Aluminio",
+      "Cordones: Ultra resistentes con Reflemax",
+      "Plantillas: Ultra confort ergonómica",
+      "Propiedades de planta: Dieléctrica, antideslizante, autolimpiante, resistente a hidrocarburos, abrasión y flexión",
+      "Compuesto de suela: Poliuretano multidensidad",
+      "Adhesión capellada-planta: Inyección directa",
+      "Norma / Riesgo: IRAM 3610, IRAM EN20345, ASTM F2413",
+      "Tecnología: IPD Technology, DCP System, Shock Absorber"
+    ],
+    "image": "/images/botin-tracer-funcional-ultraliviano.jpg"
+  },
+  {
+    "id": "61",
+    "name": "Campera Térmica Ignífuga Alta Visibilidad",
+    "brand": "Magen Safety",
+    "category": "Ropa ignifuga",
+    "description": "Campera térmica ignífuga con cintas reflectivas, pensada para entornos industriales exigentes y trabajos con exposición térmica.",
+    "technicalSpecs": [
+      "Tejido: térmico ignífugo",
+      "Costuras: reforzadas",
+      "Cintas reflectivas: de seguridad",
+      "Uso: protección térmica e industrial",
+      "Diseño: alta visibilidad en pecho y mangas"
+    ],
+    "image": "/images/campera-termica-ignifuga-alta-visibilidad.jpg"
+  },
+  {
+    "id": "62",
+    "name": "Camisa Ignífuga Reflectiva Azul",
+    "brand": "Magen Safety",
+    "category": "Ropa ignifuga",
+    "description": "Camisa ignífuga de trabajo con cintas reflectivas y confección reforzada para tareas industriales.",
+    "technicalSpecs": [
+      "Tejido: ignífugo",
+      "Costuras: reforzadas",
+      "Cintas reflectivas: de seguridad",
+      "Formato: camisa de manga larga",
+      "Uso: industria y tareas con riesgo térmico"
+    ],
+    "image": "/images/camisa-ignifuga-reflectiva-azul.jpg"
+  },
+  {
+    "id": "63",
+    "name": "Monjita Ignífuga Reflectiva Azul",
+    "brand": "Magen Safety",
+    "category": "Ropa ignifuga",
+    "description": "Monjita ignífuga con cintas reflectivas ignífugas, orientada a protección industrial con personalización corporativa.",
+    "technicalSpecs": [
+      "Tejido: ignífugo",
+      "Costuras: reforzadas",
+      "Cintas reflectivas: ignífugas de seguridad",
+      "Formato: monjita / guardapolvo largo",
+      "Aplicación: protección industrial con identidad corporativa"
+    ],
+    "image": "/images/monjita-ignifuga-reflectiva-azul.jpg"
+  },
+  {
+    "id": "64",
+    "name": "Mameluco Ignífugo Azul Marino",
+    "brand": "Magen Safety",
+    "category": "Ropa ignifuga",
+    "description": "Mameluco ignífugo con tela certificada, costuras con hilo Nomex y cintas reflectivas para uso intensivo.",
+    "technicalSpecs": [
+      "Tela: ignífuga certificada",
+      "Costuras: con hilo Nomex",
+      "Cintas reflectivas: de seguridad",
+      "Formato: mameluco entero",
+      "Uso: protección industrial de cuerpo completo"
+    ],
+    "image": "/images/mameluco-ignifugo-azul-marino.jpg"
+  },
+  {
+    "id": "65",
+    "name": "Conjunto Camisa y Pantalón Ignífugos Tecor",
+    "brand": "Magen Safety",
+    "category": "Ropa ignifuga",
+    "description": "Conjunto ignífugo compuesto por camisa y pantalón, con detalles reflectivos y terminación reforzada para uso industrial.",
+    "technicalSpecs": [
+      "Composición: camisa y pantalón ignífugos",
+      "Costuras: confeccionado con hilo de Nomex",
+      "Cintas reflectivas: bicolor ignífugas de 2 pulgadas",
+      "Terminación: costuras reforzadas",
+      "Identidad: logo institucional bordado",
+      "Norma / Riesgo: ASTM F1506"
+    ],
+    "image": "/images/conjunto-camisa-pantalon-ignifugos-tecor.jpg"
+  },
+  {
+    "id": "66",
+    "name": "Mameluco Ignífugo Rojo",
+    "brand": "Magen Safety",
+    "category": "Ropa ignifuga",
+    "description": "Mameluco ignífugo de alta visibilidad visual, orientado a protección frente a arco eléctrico, flash fire y soldadura.",
+    "technicalSpecs": [
+      "Tela: ignífuga certificada",
+      "Costuras: con hilo Nomex",
+      "Cintas reflectivas: de seguridad",
+      "Formato: mameluco entero",
+      "Protección: Arc Flash",
+      "Protección: Flash Fire",
+      "Protección: Welding"
+    ],
+    "image": "/images/mameluco-ignifugo-rojo.jpg"
+  },
+  {
+    "id": "67",
+    "name": "Conjunto Camisa y Pantalón Ignífugos Estilo OT",
+    "brand": "Magen Safety",
+    "category": "Ropa ignifuga",
+    "description": "Conjunto ignífugo de camisa y pantalón con diseño corporativo, cintas reflectivas y confección reforzada.",
+    "technicalSpecs": [
+      "Composición: camisa y pantalón ignífugos",
+      "Cinta reflectiva: tejido FR de 1 pulgada",
+      "Costuras: confeccionado con hilo de Nomex",
+      "Terminación: costuras reforzadas bordadas",
+      "Identidad: logos bordados",
+      "Aplicación: uniforme industrial personalizado"
+    ],
+    "image": "/images/conjunto-camisa-pantalon-ignifugos-estilo-ot.jpg"
+  },
+  {
+    "id": "68",
+    "name": "Protección Auditiva Copa Libus Alternative NRR 22 db",
+    "brand": "Libus",
+    "category": "Protección Auditiva",
+    "description": "Protector auditivo de copa con diseño acolchado y regulación multipunto para uso industrial general.",
+    "technicalSpecs": [
+      "Código: 173",
+      "Presentación: Caja x 40",
+      "Código marca: 901374",
+      "Atenuación: NRR 22 dB",
+      "Características: Anclaje pivot con regulación de altura, rotación y ángulo; orejeras acolchadas y lavables; kit de repuesto opcional",
+      "Aplicación: Siderurgia, minería, construcción, energía, gas y petróleo, química, logística, agro y entes estatales",
+      "Certificaciones: ANSI S3.19-1974; Homologación Argentina; IRAM Alternative"
+    ],
+    "image": "/images/proteccion-auditiva-copa-libus-alternative-nrr-22-db.jpg"
+  },
+  {
+    "id": "69",
+    "name": "Protector Auditivo Copa Libus L 320 NRR 22 db",
+    "brand": "Libus",
+    "category": "Protección Auditiva",
+    "description": "Protector auditivo de copa con vincha soft, cómodo para jornadas prolongadas y adaptable a distintos usuarios.",
+    "technicalSpecs": [
+      "Código: 174",
+      "Presentación: Caja x 20 auditivos",
+      "Código marca: 900478",
+      "Atenuación: NRR 22 dB",
+      "Características: Copa con orejera acolchada; tamaño único adaptable; vincha con banda soft; regulación de altura, rotación y ángulo; soporte para cinturón; versión para casco disponible",
+      "Aplicación: Uso industrial con exposición a ruido",
+      "Certificaciones: ANSI S3.19-1974; Homologación Brasil"
+    ],
+    "image": "/images/protector-auditivo-copa-libus-l-320-nrr-22-db.jpg"
+  },
+  {
+    "id": "70",
+    "name": "Protector Auditivo Copa para Casco Libus L 320 NRR 21 db",
+    "brand": "Libus",
+    "category": "Protección Auditiva",
+    "description": "Protector auditivo para casco con sistema de anclaje lateral y regulación multipunto para entornos industriales.",
+    "technicalSpecs": [
+      "Código: 176",
+      "Presentación: Caja x 20 auditivos",
+      "Código marca: 900481",
+      "Atenuación: NRR 21 dB",
+      "Características: Tamaño único adaptable; anclaje lateral doble; regulación de altura, rotación y ángulo; soporte para cinturón; dos posiciones de trabajo y giro 360° en reposo",
+      "Certificaciones: ANSI S3.19-1974"
+    ],
+    "image": "/images/protector-auditivo-copa-para-casco-libus-l-320-nrr-21-db.jpg"
+  },
+  {
+    "id": "71",
+    "name": "Protector Auditivo Endoaural Libus Quantum Trialeteado con Cordel NRR 22 db",
+    "brand": "Libus",
+    "category": "Protección Auditiva",
+    "description": "Tapón auditivo reutilizable de silicona trialeteada con cordel y ajuste confortable para niveles moderados de ruido.",
+    "technicalSpecs": [
+      "Código: 178",
+      "Presentación: Caja x 250 tapones",
+      "Código marca: 900473",
+      "Atenuación: NRR 22 dB",
+      "Características: Diseño de tres aletas; reutilizable y lavable; grip para inserción y remoción; color verde fluo; cordón textil; inserto metálico detectable",
+      "Aplicación: Niveles moderados de ruido",
+      "Certificaciones: ANSI S3.19-1974; EN 352-2:2002; Homologación Argentina; IRAM Quantum"
+    ],
+    "image": "/images/protector-auditivo-endoaural-libus-quantum-trialeteado-con-cordel-nrr-22-db.jpg"
+  },
+  {
+    "id": "72",
+    "name": "Protector Auditivo LIBUS QUANTUM FOAM C/Cordel NRR 32 db",
+    "brand": "Libus",
+    "category": "Protección Auditiva",
+    "description": "Tapón auditivo expansible reutilizable con cordel, pensado para alta atenuación del ruido.",
+    "technicalSpecs": [
+      "Código: 1380",
+      "Código marca: 900475",
+      "Atenuación: NRR 32 dB",
+      "Características: Tapón expansible reutilizable con cordel"
+    ],
+    "image": "/images/protector-auditivo-libus-quantum-foam-c-cordel-nrr-32-db.jpg"
+  },
+  {
+    "id": "73",
+    "name": "Protector Auditivo LIBUS QUANTUM FOAM S/Cordel",
+    "brand": "Libus",
+    "category": "Protección Auditiva",
+    "description": "Tapón auditivo expansible reutilizable sin cordel para protección contra ruido por inserción.",
+    "technicalSpecs": [
+      "Código: 1381",
+      "Código marca: 901569",
+      "Características: Tapón expansible reutilizable sin cordel"
+    ],
+    "image": "/images/protector-auditivo-libus-quantum-foam-s-cordel.jpg"
+  },
+  {
+    "id": "74",
+    "name": "Protector Auditivo LIBUS QUANTUM SILICONA NRR 23 Db",
+    "brand": "Libus",
+    "category": "Protección Auditiva",
+    "description": "Tapón auditivo de silicona con diseño de tres aletas para ajuste seguro en el canal auditivo.",
+    "technicalSpecs": [
+      "Código: 1708",
+      "Código marca: 902478",
+      "Atenuación: NRR 23 dB",
+      "Características: Diseño de tres aletas; ajuste por inserción en el canal auditivo"
+    ],
+    "image": "/images/protector-auditivo-libus-quantum-silicona-nrr-23-db.jpg"
+  },
+  {
+    "id": "75",
+    "name": "PROTECTOR AUDITIVO COPA 3M H510P3E PARA CASCO 21db NRR",
+    "brand": "3M",
+    "category": "Protección Auditiva",
+    "description": "Protector auditivo de copa para casco, liviano y orientado a reducir exposición a ruido industrial.",
+    "technicalSpecs": [
+      "Código: 2072",
+      "Atenuación: NRR 21 dB",
+      "Características: Montaje para casco; diseño liviano"
+    ],
+    "image": "/images/protector-auditivo-copa-3m-h510p3e-para-casco-21db-nrr.jpg"
+  },
+  {
+    "id": "76",
+    "name": "PROTECTOR AUDITIVO COPA 3M H520P3E PARA CASCO 25db NRR#",
+    "brand": "3M",
+    "category": "Protección Auditiva",
+    "description": "Protector auditivo para casco con atenuación medio-alta para aplicaciones industriales de alto ruido.",
+    "technicalSpecs": [
+      "Código: 2075",
+      "Atenuación: NRR 25 dB",
+      "Características: Montaje para casco; atenuación medio-alta"
+    ],
+    "image": "/images/protector-auditivo-copa-3m-h520p3e-para-casco-25db-nrr.jpg"
+  },
+  {
+    "id": "77",
+    "name": "PROTECTOR AUDITIVO COPA 3M H540A HV ALTA VISIVILIDAD CON VINCHA 30db NRR",
+    "brand": "3M",
+    "category": "Protección Auditiva",
+    "description": "Protector auditivo de copa con vincha y alta visibilidad para ambientes con niveles elevados de ruido.",
+    "technicalSpecs": [
+      "Código: 2076",
+      "Atenuación: NRR 30 dB",
+      "Características: Vincha; alta visibilidad"
+    ],
+    "image": "/images/protector-auditivo-copa-3m-h540a-hv-alta-visivilidad-con-vincha-30db-nrr.jpg"
+  },
+  {
+    "id": "78",
+    "name": "PROTECTOR AUDITIVO COPA 3M H540B DETRAS DE LA NUCA 29db NRR",
+    "brand": "3M",
+    "category": "Protección Auditiva",
+    "description": "Protector auditivo de copa con diseño detrás de la nuca para trabajos con alto nivel de ruido.",
+    "technicalSpecs": [
+      "Código: 2078",
+      "Atenuación: NRR 29 dB",
+      "Características: Diseño detrás de la nuca"
+    ],
+    "image": "/images/protector-auditivo-copa-3m-h540b-detras-de-la-nuca-29db-nrr.jpg"
+  },
+  {
+    "id": "79",
+    "name": "PROTECTOR AUDITIVO COPA 3M H510A CON VINCHA 21db NRR",
+    "brand": "3M",
+    "category": "Protección Auditiva",
+    "description": "Protector auditivo de copa con vincha, liviano y orientado a protección en áreas ruidosas.",
+    "technicalSpecs": [
+      "Código: 2071",
+      "Atenuación: NRR 21 dB",
+      "Características: Vincha; diseño liviano"
+    ],
+    "image": "/images/protector-auditivo-copa-3-h510a-con-vincha-21db-nrr.jpg"
+  },
+  {
+    "id": "80",
+    "name": "Protector Auditivo Copa Libus Alternative Multiproposito NRR 22 db",
+    "brand": "Libus",
+    "category": "Protección Auditiva",
+    "description": "Protector auditivo de copa multipropósito de uso no invasivo para aislamiento del ruido.",
+    "technicalSpecs": [
+      "Código: 1980",
+      "Código marca: 902877",
+      "Atenuación: NRR 22 dB",
+      "Características: Diseño multipropósito; protección auditiva no invasiva"
+    ],
+    "image": "/images/protector-auditivo-copa-libus-alternative-multiproposito-nrr-22-db.jpg"
+  },
+  {
+    "id": "81",
+    "name": "Protector Auditivo Copa Libus L 340 NRR 26 db",
+    "brand": "Libus",
+    "category": "Protección Auditiva",
+    "description": "Protector auditivo de copa con vincha soft y mayor nivel de atenuación para ambientes industriales ruidosos.",
+    "technicalSpecs": [
+      "Código: 175",
+      "Presentación: Caja x 20 auditivos",
+      "Código marca: 900486",
+      "Atenuación: NRR 26 dB",
+      "Características: Copa con orejera acolchada; tamaño único adaptable; banda soft; regulación de altura, rotación y ángulo; soporte para cinturón; versión para casco disponible",
+      "Aplicación: Uso industrial con exposición a ruido",
+      "Certificaciones: ANSI S3.19-1974; IRAM L340 Vincha"
+    ],
+    "image": "/images/protector-auditivo-copa-libus-l-340-nrr-26-db.jpg"
+  },
+  {
+    "id": "82",
+    "name": "Protector Auditivo Copa Libus L 360 Hi Visibility NRR 29 db",
+    "brand": "Libus",
+    "category": "Protección Auditiva",
+    "description": "Protector auditivo de copa de alta visibilidad con máxima atenuación y diseño ergonómico.",
+    "technicalSpecs": [
+      "Código: 2093",
+      "Código marca: 902926",
+      "Atenuación: NRR 29 dB",
+      "Características: Alta visibilidad; diseño ergonómico; máxima atenuación"
+    ],
+    "image": "/images/protector-auditivo-copa-libus-l-360-hi-visibility-nrr-29-db.jpg"
+  },
+  {
+    "id": "83",
+    "name": "Protector Auditivo Copa Libus L 360 NRR 29 db",
+    "brand": "Libus",
+    "category": "Protección Auditiva",
+    "description": "Protector auditivo de copa con diseño ergonómico y alta atenuación para entornos de ruido intenso.",
+    "technicalSpecs": [
+      "Código: 928",
+      "Código marca: 900488",
+      "Atenuación: NRR 29 dB",
+      "Aplicación: Siderurgia, minería, construcción, energía, gas y petróleo, química, logística, agro y entes estatales",
+      "Certificaciones: ANSI S3.19-1974; IRAM L360 Vincha"
+    ],
+    "image": "/images/protector-auditivo-copa-libus-l-360-nrr-29-db.jpg"
+  },
+  {
+    "id": "84",
+    "name": "Protector Auditivo Copa para Casco Libus L 340 NRR 26 db",
+    "brand": "Libus",
+    "category": "Protección Auditiva",
+    "description": "Protector auditivo para casco con orejeras acolchadas, regulación multipunto y soporte para trabajo industrial.",
+    "technicalSpecs": [
+      "Código: 177",
+      "Presentación: Caja x 20 auditivos",
+      "Código marca: 900487",
+      "Atenuación: NRR 26 dB",
+      "Características: Vincha con banda soft; anclaje lateral doble; regulación de altura, rotación y ángulo; orejera lavable; soporte para cinturón; dos posiciones de trabajo",
+      "Certificaciones: ANSI S3.19-1974; Homologación Brasil; IRAM L340 Casco"
+    ],
+    "image": "/images/protector-auditivo-copa-para-casco-libus-l-340-nrr-26-db.jpg"
+  },
+  {
+    "id": "85",
+    "name": "Protector Auditivo Copa para Casco Libus L 360 NRR 29 db",
+    "brand": "Libus",
+    "category": "Protección Auditiva",
+    "description": "Protector auditivo para casco con diseño ergonómico y alta atenuación para trabajos con ruido intenso.",
+    "technicalSpecs": [
+      "Código: 933",
+      "Código marca: 901932",
+      "Atenuación: NRR 29 dB",
+      "Aplicación: Siderurgia, minería, construcción, energía, gas y petróleo, química, logística, agro y entes estatales",
+      "Certificaciones: ANSI S3.19-1974; IRAM L360 Casco"
+    ],
+    "image": "/images/protector-auditivo-copa-para-casco-libus-l-360-nrr-29-db.jpg"
+  },
+  {
+    "id": "86",
+    "name": "Protector Auditivo de Copa SteelPro CM 502",
+    "brand": "STEELPRO",
+    "category": "Protección Auditiva",
+    "description": "Protector auditivo de copa dieléctrico, sin componentes metálicos y de alta visibilidad.",
+    "technicalSpecs": [
+      "Código: 693",
+      "Características: Dieléctrico; sin componentes metálicos; alta visibilidad"
+    ],
+    "image": "/images/protector-auditivo-de-copa-steelpro-cm-502.jpg"
+  },
+  {
+    "id": "87",
+    "name": "Protector Auditivo de Copa SteelPro Jumbo",
+    "brand": "STEELPRO",
+    "category": "Protección Auditiva",
+    "description": "Protector auditivo de copa dieléctrico con mayor nivel de protección frente al ruido.",
+    "technicalSpecs": [
+      "Código: 1190",
+      "Características: Dieléctrico; mayor nivel de protección auditiva"
+    ],
+    "image": "/images/protector-auditivo-de-copa-steelpro-jumbo.jpg"
   }
 ]

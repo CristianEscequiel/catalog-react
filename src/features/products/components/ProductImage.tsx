@@ -9,6 +9,7 @@ type ProductImageProps = {
 
 const ProductImage = ({ src, alt, className }: ProductImageProps) => {
   const [imageSource, setImageSource] = useState(src || productFallback);
+  console.log(src)
 
   useEffect(() => {
     setImageSource(src || productFallback);

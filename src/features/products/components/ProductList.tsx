@@ -1,7 +1,7 @@
 import { ChevronDown, ChevronUp, LayoutGrid, List } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
-import products from "../data/products.json";
+import products from "../data/products";
 import type { Product } from "../types";
 import ProductCard from "./ProductCard";
 import ProductImage from "./ProductImage";
@@ -12,8 +12,10 @@ const LAYOUT_STORAGE_KEY = "catalog-layout-mode";
 const CATEGORY_STORAGE_KEY = "catalog-selected-category";
 
 const ProductList = () => {
+  const productItems: Product[] = products;
+
   const categories = useMemo(
-    () => Array.from(new Set(products.map((product) => product.category))),
+    () => Array.from(new Set(productItems.map((product) => product.category))),
     []
   );
 
@@ -44,8 +46,8 @@ const ProductList = () => {
   const filteredProducts = useMemo(
     () =>
       selectedCategory === "Todas"
-        ? products
-        : products.filter((product) => product.category === selectedCategory),
+        ? productItems
+        : productItems.filter((product) => product.category === selectedCategory),
     [selectedCategory]
   );
 
@@ -161,7 +163,10 @@ const ProductList = () => {
                     <div className="flex items-center justify-between gap-2">
                       <div className="flex min-w-0 items-center gap-2">
                         <ProductImage src={product.image} alt={product.name} className="h-8 w-8 rounded object-cover" />
-                        <h3 className="truncate text-sm font-semibold">{product.name}</h3>
+                        <div className="min-w-0">
+                          <h3 className="truncate text-sm font-semibold">{product.name}</h3>
+                          <p className="truncate text-xs text-muted">Marca: {product.brand}</p>
+                        </div>
                       </div>
                       <Link to={`/product/${product.id}`} className="primary-link whitespace-nowrap text-xs font-semibold">
                         Ver mas

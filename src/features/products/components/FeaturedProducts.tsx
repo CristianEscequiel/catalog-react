@@ -1,20 +1,33 @@
 import { Link } from "react-router-dom";
-import products from "../data/products.json";
+import { type FeaturedProductsSectionContent } from "../../../config/homeContent";
+import products from "../data/products";
 import ProductCard from "./ProductCard";
 
-const FeaturedProducts = () => {
-  const featuredProducts = products.slice(0, 6);
+type FeaturedProductsProps = {
+  content: FeaturedProductsSectionContent;
+};
+
+const FeaturedProducts = ({ content }: FeaturedProductsProps) => {
+  const featuredProducts = products.reduce<typeof products>((selectedProducts, product) => {
+    const hasCategory = selectedProducts.some((selectedProduct) => selectedProduct.category === product.category);
+
+    if (hasCategory || selectedProducts.length >= 6) {
+      return selectedProducts;
+    }
+
+    return [...selectedProducts, product];
+  }, []);
 
   return (
     <section id="catalog" className="mt-8 rounded-3xl px-4 py-8 surface-soft md:px-6">
       <div className="mb-6 flex flex-col gap-3 md:flex-row md:items-end md:justify-between">
         <div>
-          <p className="text-xs font-semibold uppercase tracking-wide text-muted">Seleccion curada</p>
-          <h2 className="text-2xl font-bold">Productos destacados</h2>
-          <p className="mt-1 text-sm text-muted">Explora algunas soluciones recomendadas para tu operacion.</p>
+          <p className="text-xs font-semibold uppercase tracking-wide text-muted">{content.badge}</p>
+          <h2 className="text-2xl font-bold">{content.title}</h2>
+          <p className="mt-1 text-sm text-muted">{content.description}</p>
         </div>
         <Link to="/catalog" className="primary-link text-sm font-semibold">
-          Ver todo el catalogo
+          {content.viewAllLabel}
         </Link>
       </div>
 

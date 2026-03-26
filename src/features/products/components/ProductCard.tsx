@@ -28,6 +28,8 @@ const ProductCard = ({ product }: ProductCardProps) => {
   const whatsappLink = `https://wa.me/${activeClient.whatsappNumber}?text=${encodeURIComponent(
     `Hola, me interesa ${product.name}`
   )}`;
+  const visibleSpecifications = product.technicalSpecs.slice(0, 4);
+  const hasMoreSpecifications = product.technicalSpecs.length > 4;
 
   const handleFlip = () => {
     if (!isHoverDevice) {
@@ -53,6 +55,7 @@ const ProductCard = ({ product }: ProductCardProps) => {
         <article className="flip-card-face surface-card flex h-full flex-col rounded-2xl p-4">
           <ProductImage src={product.image} className="h-44 w-full rounded-xl object-cover" alt={product.name} />
           <p className="mt-3 text-xs font-semibold uppercase tracking-wide text-muted">{product.category}</p>
+          <p className="mt-1 text-xs text-muted">Marca: {product.brand}</p>
           <h3 className="mt-2 text-lg font-semibold">{product.name}</h3>
           <p className="mt-2 line-clamp-2 text-sm text-muted">{product.description}</p>
 
@@ -67,10 +70,11 @@ const ProductCard = ({ product }: ProductCardProps) => {
         <article className="flip-card-face flip-card-back surface-card flex h-full flex-col rounded-2xl p-4">
           <h3 className="text-lg font-semibold">Ficha tecnica</h3>
           <ul className="mt-3 space-y-2 text-sm text-muted">
-            {product.technicalSpecs.map((specification) => (
+            {visibleSpecifications.map((specification) => (
               <li key={specification}>• {specification}</li>
             ))}
           </ul>
+          {hasMoreSpecifications && <p className="mt-2 text-xs text-muted">+ mas especificaciones en el detalle</p>}
 
           <div className="mt-auto flex items-center justify-between gap-2 pt-4">
             <Link

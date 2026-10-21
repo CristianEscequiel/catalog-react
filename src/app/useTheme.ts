@@ -21,6 +21,7 @@ const applyThemeColors = (theme: ThemeMode) => {
   document.documentElement.style.setProperty("--color-bg", colors.bg);
   document.documentElement.style.setProperty("--color-text", colors.text);
   document.documentElement.style.setProperty("--color-accent", accent);
+  document.documentElement.style.setProperty("--color-on-primary", colors.onPrimary ?? "#ffffff");
 };
 
 export const useTheme = () => {

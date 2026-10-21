@@ -40,7 +40,7 @@ const Hero = ({ content }: HeroProps) => {
               href={`https://wa.me/${activeClient.whatsappNumber}`}
               target="_blank"
               rel="noreferrer"
-              className="surface-card inline-flex items-center gap-2 rounded-xl px-5 py-3 text-sm font-semibold"
+              className="outline-button inline-flex items-center gap-2 rounded-xl px-5 py-3 text-sm font-semibold"
             >
               {content.secondaryCtaLabel}
             </a>

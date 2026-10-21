@@ -5,6 +5,7 @@ export type ThemeColors = {
   bg: string;
   text: string;
   accent?: string;
+  onPrimary?: string;
 };
 
 export type ThemeConfig = Record<ThemeMode, ThemeColors>;
@@ -15,6 +16,7 @@ export type ClientConfig = {
   whatsappNumber: string;
   linkedinUrl: string;
   githubUrl: string;
+  seo: { title: string; description: string };
   theme: ThemeConfig;
 };
 
@@ -25,6 +27,10 @@ const clientConfigs: Record<string, ClientConfig> = {
     whatsappNumber: "5491112345678",
     linkedinUrl: "https://www.linkedin.com/in/tu-perfil",
     githubUrl: "https://github.com/tu-usuario",
+    seo: {
+      title: "Mi Tienda | Catálogo online",
+      description: "Catálogo online de Mi Tienda: explorá los productos y consultá por WhatsApp.",
+    },
     theme: {
       light: {
         primary: "#2563eb",
@@ -46,6 +52,10 @@ const clientConfigs: Record<string, ClientConfig> = {
     whatsappNumber: "5491112345678",
     linkedinUrl: "https://www.linkedin.com/in/tu-perfil",
     githubUrl: "https://github.com/tu-usuario",
+    seo: {
+      title: "Nordic Catalog | Protección industrial",
+      description: "Soluciones técnicas de protección industrial: productos resistentes y soporte técnico para equipos exigentes.",
+    },
     theme: {
       light: {
         primary: "#0f766e",
@@ -67,18 +77,25 @@ const clientConfigs: Record<string, ClientConfig> = {
   whatsappNumber: "5491112345678",
   linkedinUrl: "https://www.linkedin.com/in/tu-perfil",
   githubUrl: "https://github.com/tu-usuario",
+  seo: {
+    title: "Industrial Safety | Equipamiento de seguridad industrial",
+    description:
+      "Equipamiento de seguridad industrial certificado, stock inmediato y asesoría técnica para proteger a tu equipo.",
+  },
   theme: {
     light: {
       primary: "#f59e0b", // amarillo seguridad
       bg: "#f9fafb",      // gris claro neutro
       text: "#111827",    // casi negro
       accent: "#d97706",  // naranja industrial
+      onPrimary: "#111827", // texto oscuro sobre amarillo
     },
     dark: {
       primary: "#fbbf24", // amarillo más brillante
       bg: "#0f172a",      // azul oscuro industrial
       text: "#f3f4f6",    // gris claro
       accent: "#f59e0b",  // naranja-amarillo intenso
+      onPrimary: "#111827", // texto oscuro sobre amarillo
     },
   },
 },
@@ -88,6 +105,10 @@ regional: {
   whatsappNumber: "5491112345678",
   linkedinUrl: "https://www.linkedin.com/in/tu-perfil",
   githubUrl: "https://github.com/tu-usuario",
+  seo: {
+    title: "Raíces Argentinas | Productos de seguridad y trabajo",
+    description: "Catálogo nacional de productos de seguridad y trabajo con atención personalizada para equipos de todo el país.",
+  },
   theme: {
     light: {
       primary: "#7a4e2d",   // cuero
@@ -111,3 +132,10 @@ const activeClientId =
 
 export const activeClient = clientConfigs[activeClientId];
 export const clients = clientConfigs;
+
+export const applyDocumentMeta = () => {
+  document.title = activeClient.seo.title;
+  document
+    .querySelector('meta[name="description"]')
+    ?.setAttribute("content", activeClient.seo.description);
+};
